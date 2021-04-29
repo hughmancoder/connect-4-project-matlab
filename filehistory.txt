@@ -1,0 +1,29 @@
+-18/4/21
+got board row and column stacking to work properly using if statements. 
+This only applies for a single user
+
+-20/4/21
+9 am
+Getting the  random computer input file to work.  
+
+9 pm 
+-Getting the random computer input to work and alternate between the users choice. 
+-Worked on edge cases: if the column is full, then the user is s to try again.
+-If the user enters an index outside from 1-7, then the program prompts the user to enter a valid input within the required 1-7 range. 
+
+
+22/4/21
+-got diagonal win detection working for both computer and user inputs. 
+
+
+23/4/21
+-Getting functions structure to be more organised
+
+-24/4/21
+Working on making the game more intelligent, if the computer registers that the user has placed 3 in a row, the computer will attempt to block user from getting 4. 
+-worked on ai: if the computer detects that the user has inputed 3 in a row either vertically or horizontally, it will attempt to block the user using strategic placement
+-organised code into constituent functoins based on tasks
+
+-26/4/21
+-commented on code and tidied it up. 
+-attemped to work around input errors such as the user entering 'a' instead of 7. This simply resulted in more errors so I scrapped this. 

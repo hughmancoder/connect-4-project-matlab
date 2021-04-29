@@ -1,0 +1,34 @@
+User Input in MATLAB
+Text Output and/or plotting in MATLAB
+MATLAB programming concepts including:
+Loops
+Vectors or Arrays
+Conditional execution.
+Software Development Practices including:
+Commenting and code Style.
+Testing
+Incremental development of code
+Being able to explain your code and your design decisions.
+
+
+________________________________________________________________
+Working in Stages
+Really important
+
+For this assignment you will need to build up your solution in testable stages. This means that you don’t try to write a complete solution but instead try to write and test a program that implements part of the functionality of what you do. Once this step is working you can move onto the next component of your solution. Once you have a working solution to the components then you can start to put them together into a working solution. You are expected to save your files for your partial solutions for this problem. These files can be shown to the demonstrator to show how you have built up your solution from components and gradually added functionality.
+
+ 
+
+As an example of how you might work in stages, for the hangman game above you might break the problem down into:
+
+Selecting a word from a dictionary.  ‘aardvark’
+Reading a single letter from the user like ‘a’
+Building a character array  showing the letters matched so far like ‘aa---a--’
+Keeping count of the number of guessed letters so far.
+Keeping count of the number of guesses so far.
+Writing conditional logic to see whether the game is finished or not.
+You would have at least one MATLAB file and tests for each stage above. You will be expected to write well-commented and readable code for each stage. Of course the MATLAB files will often build on each other so you will, often, be able to take advantage of code you have already written.
+
+
+
+Criteria to aim for

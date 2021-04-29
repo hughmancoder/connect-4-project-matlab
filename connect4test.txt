@@ -1,0 +1,9 @@
+input       output
+
+7           2 placed on column 7 appropriately
+
+1           2 placed on column 1 appropriately
+
+9           not a valid input, please a valid index, try again. *users turn resets
+
+a           error. *Users turn resumes after error is displayed.      
