@@ -14,4 +14,4 @@
 -input must be between number 1-7. Failing to input a number between these values will result in an error, and your turn will be skipped. 
 
 
-<p> Though I'd share my code with the world on github in case anyone else is interested. </p>
+<p> Thought I'd share my code with the world on github in case anyone else is interested. </p>
