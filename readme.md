@@ -1,5 +1,6 @@
 
 ## Here are the following rules and guide lines: 
+- Quick project while learning matlab, please not the programming paradigms in this code are not indicative of my current coding style. This code is rather disorganised
 
 - Aim of the game is to connect four in a row
 
